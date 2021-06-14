@@ -1,5 +1,4 @@
 # PYP / Day - 28
-
 Table of Contents :
 
 1. [Prerequisites](#prerequisites)
